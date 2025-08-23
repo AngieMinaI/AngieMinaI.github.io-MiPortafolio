@@ -658,7 +658,9 @@ position: absolute;
 
 /* Ajustes para móvil */
 @media (max-width: 768px) {
-
+  .sidebar {
+    display: none;
+  }
   .home {
     padding: 1rem;
     background-size: cover;
