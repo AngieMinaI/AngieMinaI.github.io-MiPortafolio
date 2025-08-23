@@ -5,14 +5,6 @@ export default function Footer() {
     <footer className="footer">
       <div className="social-icons">
         <a
-          href="angieminaishuiza@gmail.com"
-          target="_blank"
-          rel="noopener noreferrer"
-          aria-label="Email"
-        >
-          <FaEnvelope />
-        </a>
-        <a
           href="https://www.linkedin.com/in/angie-mina-ishuiza/"
           target="_blank"
           rel="noopener noreferrer"
@@ -27,6 +19,14 @@ export default function Footer() {
           aria-label="GitHub"
         >
           <FaGithub />
+        </a>
+          <a
+          href="https://mail.google.com/mail/?view=cm&fs=1&to=angieminaishuiza@gmail.com"
+          target="_blank"
+          rel="noopener noreferrer"
+          aria-label="Email"
+        >
+          <FaEnvelope />
         </a>
       </div>
       <p className="footer-text">© 2025 Angie Mina Ishuiza. Todos los derechos reservados.</p>
