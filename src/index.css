@@ -663,7 +663,7 @@ position: absolute;
   .sidebar {
         height: 100dvh;
         width: 200px; /* más reducido en móviles */
-    }
+    
   }
   .home {
     padding: 1rem;
