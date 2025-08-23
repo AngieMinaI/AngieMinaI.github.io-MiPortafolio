@@ -661,7 +661,7 @@ position: absolute;
 /* Ajustes para móvil */
 @media (max-width: 768px) {
   .sidebar {
-        height: 100dvh;
+        height: 5000dvh;
         width: 200px; /* más reducido en móviles */
     
   }
