@@ -15,10 +15,12 @@ body {
 
 /* Sidebar */
 .sidebar {
+     
+  overflow-y: auto; /* Si hay mucho contenido, agrega scroll */
   position: fixed;
   left: 0;
   top: 0;
-  width: 220px;
+  width: 250px;
   height: 100vh;
   background: #222;
   color: white;
@@ -659,7 +661,9 @@ position: absolute;
 /* Ajustes para móvil */
 @media (max-width: 768px) {
   .sidebar {
-    display: none;
+        height: 100dvh;
+        width: 200px; /* más reducido en móviles */
+    }
   }
   .home {
     padding: 1rem;
