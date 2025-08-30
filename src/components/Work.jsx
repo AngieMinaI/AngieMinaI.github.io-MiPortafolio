@@ -133,6 +133,30 @@ const projectsData = [
     docs:
       "https://drive.google.com/file/d/1xp0Rcw1P-R5sxwrJ0XXWJRAYhffAmJlT/view?usp=sharing",
     tags: ["JavaScript", "HTML", "CSS"]
+  },
+    {
+    id: 13,
+    title: "Ancient Wari",
+    category: "Videojuegos",
+    image: "Wari.png",
+    description: "Videojuego educativo, relacionado a la cultura Wari. Contiene 3 niveles, cada uno con diferente background, sonidos y enemigos. El personaje principal (condor) deberá eliminar mediante disparos a cada enemigo sin perder cada uno de sus vidas.",
+    github:
+      "https://github.com/AngieMinaI/Videojuego-Ancient-Wari",
+    docs:
+      "https://drive.google.com/file/d/1Rnxe8MUGowK9fXoyeFHKzI2fZjYaxrC6/view?usp=sharing",
+    tags: ["C++"]
+  },
+      {
+    id: 13,
+    title: "Dispara o pierde",
+    category: "Videojuegos",
+    image: "Construct.png",
+    description: "Videojuego de reflejos donde solo tienes una oportunidad: si disparas en el momento correcto, ganas; si fallas, pierdes. Contiene 2 niveles y diferentes enemigos, puedes saltar, avanzar y retroceder. Videojuego basado en eventos.",
+    github:
+      "https://github.com/AngieMinaI/AngieMinaI.github.io-Construct",
+    docs:
+      "https://angieminai.github.io/AngieMinaI.github.io-Construct/",
+    tags: ["Construct", "HTML"]
   }
 ];
 
