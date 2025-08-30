@@ -147,7 +147,7 @@ const projectsData = [
     tags: ["C++"]
   },
       {
-    id: 13,
+    id: 14,
     title: "Dispara o pierde",
     category: "Videojuegos",
     image: "Construct.png",
