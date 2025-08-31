@@ -157,6 +157,42 @@ const projectsData = [
     docs:
       "https://angieminai.github.io/AngieMinaI.github.io-Construct/",
     tags: ["Construct", "HTML"]
+  },
+  {
+    id: 15,
+    title: "Recoge monedas",
+    category: "Videojuegos",
+    image: "Unity1.png",
+    description: "Videojuego en 3D donde tiene que recoger las 3 monedas y ganas.",
+    github:
+      "https://github.com/AngieMinaI/AngieMinaI.github.io-JuegoMoneda",
+    docs:
+      "https://angieminai.github.io/AngieMinaI.github.io-JuegoMoneda/",
+    tags: ["Unity", "C#"]
+  },
+    {
+    id: 16,
+    title: "Futbol",
+    category: "Videojuegos",
+    image: "JuegoFut.png",
+    description: "Videojuego competitivo de dos jugadores, donde cada uno controla un guante en pantalla para bloquear la pelota e impedir que entre en su portería. Los guantes se mueven mediante botones táctiles en la pantalla, y el objetivo es evitar goles mientras intentas anotar al oponente. El primer jugador en alcanzar 5 goles será el ganador.",
+    github:
+      "https://github.com/AngieMinaI/AngieMinaI.github.io-Juego_Futbol_JS",
+    docs:
+      "https://angieminai.github.io/AngieMinaI.github.io-Juego_Futbol_JS/",
+    tags: ["Javascript", "HTML", "Phaser"]
+  },
+    {
+    id: 17,
+    title: "Laberinto",
+    category: "Videojuegos",
+    image: "Lab.png",
+    description: "Videojuego con 3 niveles de dificultad progresiva. El jugador debe recorrer cada nivel recogiendo todas las monedas para poder ganar. A medida que avanza, los laberintos se vuelven más complejos y retadores. El juego incluye efectos de sonido que acompañan la recolección de monedas y las acciones del jugador.",
+    github:
+      "https://github.com/AngieMinaI/AngieMinaI.github.io-JuegoLab3Nivel",
+    docs:
+      "https://angieminai.github.io/AngieMinaI.github.io-JuegoLab3Nivel/",
+    tags: ["Javascript", "HTML", "CSS", "Canvas"]
   }
 ];
 
