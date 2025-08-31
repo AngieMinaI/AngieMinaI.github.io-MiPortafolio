@@ -193,6 +193,18 @@ const projectsData = [
     docs:
       "https://angieminai.github.io/AngieMinaI.github.io-JuegoLab3Nivel/",
     tags: ["Javascript", "HTML", "CSS", "Canvas"]
+  },
+   {
+    id: 18,
+    title: "Demo: Pizza Rush",
+    category: "Videojuegos",
+    image: "Pizza.png",
+    description: "Videojuego donde mueves a tu personaje para comer todas las pizzas. Cada pizza aumenta tu puntuación y al recolectarlas todas aparecerá un mensaje.",
+    github:
+      "https://github.com/AngieMinaI/AngieMinaI-AngieMinaI.github.io-GodotPizza",
+    docs:
+      "https://angieminai.github.io/AngieMinaI-AngieMinaI.github.io-GodotPizza/",
+    tags: ["Godot", "GDScript"]
   }
 ];
 
