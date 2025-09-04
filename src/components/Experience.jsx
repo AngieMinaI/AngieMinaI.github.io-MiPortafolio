@@ -5,9 +5,9 @@ export default function Experience() {
     {
       id: 1,
       title: "Asesora de Soporte Operativo Especializado en Atento",
-      period: "Set 2022 - Actualidad",
+      period: "Set 2022 - Set 2025",
       description:
-        "Brindo soporte técnico remoto en servicios de internet y telefonía HFC/FTTH, optimizando configuraciones y pruebas para garantizar la continuidad del servicio. Asesoro a técnicos y participo en la implementación de soluciones digitales que reducen los tiempos de respuesta y mejoran la experiencia del cliente."
+        "Brindé soporte técnico remoto en servicios de internet y telefonía HFC/FTTH, optimicé configuraciones y pruebas para garantizar la continuidad del servicio. Asesoré a técnicos y participé en la implementación de soluciones digitales que redujeron los tiempos de respuesta y mejoraron la experiencia del cliente."
     }
   ];
 
