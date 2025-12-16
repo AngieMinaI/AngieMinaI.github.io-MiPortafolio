@@ -6,7 +6,7 @@ export default function About() {
     <section id= "Acerca de mí" className="about">
       <h2>Acerca de mí</h2>
       <p>
-        Soy Angie Mina estudiante de 10° ciclo de la carrera de Ingeniería Software de la Universidad 
+        Soy Angie Mina egresada de la carrera de Ingeniería Software de la Universidad 
         Tecnológica del Perú, con más de dos años de experiencia en soporte operativo.
         Cuento con conocimientos en programación, gestión del ciclo de vida del software 
         y metodologías ágiles y tradicionales.
@@ -29,20 +29,12 @@ export default function About() {
         </div>
         <div className="card yellow">
           <FaGlobe className="card-icon" />
-          <h3>Desarrollo Web</h3>
+          <h3>Desarrollo de videojuegos</h3>
         </div>
         <div className="card red">
           <FaUserShield className="card-icon" />
-          <h3>Auditoría de sistemas</h3>
-        </div>
-        <div className="card purple">
-          <BiCheckShield className="card-icon" />
-          <h3>Aseguramiento de calidad de software</h3>
-        </div>
-        <div className="card green">
-          <FaChartBar className="card-icon" />
-          <h3>Ciencias de datos</h3>
-        </div>
+          <h3>Análisis de datos</h3>
+        </div>       
       </div>
     </section>
   );
