@@ -47,7 +47,7 @@ export default function Footer() {
         </a>
       </div>
       <p className="footer-text">
-        © 2025 Angie Mina Ishuiza. Todos los derechos reservados.
+        © 2026 Angie Mina Ishuiza. Todos los derechos reservados.
       </p>
     </footer>
   );
