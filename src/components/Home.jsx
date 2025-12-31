@@ -4,7 +4,7 @@ export default function Home() {
       <div className="home-content">
         <h1>Bienvenido a mi portafolio!<br/>Soy Angie Mina Ishuiza</h1>
         <p>Ingeniera de Software </p>
-        <a href={`${import.meta.env.BASE_URL}CV-Angie-Mina-Ishuiza.pdf`} download className="cv-btn">
+        <a href={`${import.meta.env.BASE_URL}CV_Angie_Mina_Ishuiza.pdf`} download className="cv-btn">
             Descargar CV <span className="icon">⬇</span>
         </a>
       </div>
