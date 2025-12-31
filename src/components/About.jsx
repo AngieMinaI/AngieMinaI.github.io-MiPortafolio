@@ -1,5 +1,6 @@
-import { FaUserShield, FaGlobe, FaChartBar, FaProjectDiagram} from "react-icons/fa";
-import { BiCheckShield } from "react-icons/bi";
+import { FaGamepad, FaProjectDiagram} from "react-icons/fa";
+import { GiMaterialsScience } from "react-icons/gi"
+import { SiGoogleanalytics } from "react-icons/si";
 
 export default function About() {
   return (
@@ -17,24 +18,28 @@ export default function About() {
         Me destaco por mi capacidad de trabajo en equipo, la resolución de problemas y el compromiso 
         de aportar ideas que generen valor, buscando innovar en cada proyecto en el que participo.
         <br /><br />
-        Actualmente estoy aprendiendo React, Power BI y Excel para fortalecer mis habilidades técnicas.
+        Actualmente estoy aprendiendo Game Design, Power BI y Excel para fortalecer mis habilidades técnicas.
         <br /><br />
         Busco oportunidades para aplicar y ampliar mis conocimientos en empresas de tecnología e
         innovación, en áreas como:
       </p>
       <div className="cards-container">
         <div className="card blue">
+          <GiMaterialsScience className="card-icon" />
+          <h3>Ciencia de Datos</h3>
+        </div>
+        <div className="card green">
+          <SiGoogleanalytics className="card-icon" />
+          <h3>Análisis de Datos</h3>
+        </div>
+        <div className="card purple">
+          <FaGamepad  className="card-icon" />
+          <h3>Desarrollo de Videojuegos</h3>
+        </div>  
+        <div className="card orange">
           <FaProjectDiagram className="card-icon" />
-          <h3>Gestión de proyectos</h3>
-        </div>
-        <div className="card yellow">
-          <FaGlobe className="card-icon" />
-          <h3>Desarrollo de videojuegos</h3>
-        </div>
-        <div className="card red">
-          <FaUserShield className="card-icon" />
-          <h3>Análisis de datos</h3>
-        </div>       
+          <h3>Gestión de Proyectos</h3>
+        </div>     
       </div>
     </section>
   );

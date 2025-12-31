@@ -5,8 +5,8 @@ export default function Education() {
   {
     id: 1,
     title: "UNIVERSIDAD TECNOLÓGICA DEL PERÚ - UTP",
-    date: "Set 2017 – Actualidad",
-    description: "Actualmente cursando el 10° ciclo de la carrera de Ingeniería de Software, con formación sólida en desarrollo de aplicaciones web, bases de datos y gestión de proyectos tecnológicos. Durante mi carrera, he participado en proyectos prácticos de desarrollo de software y videojuegos, aplicando tecnologías como JavaScript, Python, Java, HTML, CSS y motores como Unity y Godot, fortaleciendo mis competencias en programación, diseño de sistemas y resolución de problemas."
+    date: "Egreso: Dic 2025",
+    description: "Egresada de la carrera de Ingeniería de Software, con formación sólida en desarrollo de aplicaciones web, bases de datos y gestión de proyectos tecnológicos. Durante mi carrera, he participado en proyectos prácticos de desarrollo de software y videojuegos, aplicando tecnologías como JavaScript, Python, Java, HTML, CSS y motores como Unity y Godot, fortaleciendo mis competencias en programación, diseño de sistemas y resolución de problemas."
   },
   {
     id: 2,

@@ -1,5 +1,5 @@
 import {FaHtml5, FaCss3Alt, FaJs, FaPython, FaDatabase, FaUnity, FaGithub, FaFigma, FaTrello, FaPhp, FaGitAlt, FaGoogleDrive, FaJava} from "react-icons/fa";
-import {SiGodotengine, SiPostman, SiSublimetext, SiJira, SiGoogledocs, SiGooglesheets, SiGooglemeet} from "react-icons/si";
+import {SiGodotengine, SiPostman, SiSublimetext, SiJira, SiGoogledocs, SiGooglesheets, SiGooglemeet, SiApachejmeter} from "react-icons/si";
 import {BiLogoVisualStudio, BiBarChartAlt} from "react-icons/bi";
 import {GiPrayingMantis} from "react-icons/gi";
 import {PiMicrosoftExcelLogoFill, PiMicrosoftWordLogoFill, PiMicrosoftPowerpointLogoFill, PiMicrosoftTeamsLogoFill, PiMicrosoftOutlookLogoFill} from "react-icons/pi";
@@ -39,7 +39,8 @@ export default function Skills() {
             <span><FaFigma /> Figma</span>
             <span><SiPostman /> Postman</span>
             <span><BiBarChartAlt /> PowerBI</span>
-            <span><GiPrayingMantis/>MantisHub</span>          
+            <span><GiPrayingMantis/>MantisHub</span> 
+            <span><SiApachejmeter/>Jmeter</span>           
           </div>
         </div>
 
