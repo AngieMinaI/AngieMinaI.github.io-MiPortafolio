@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 import { FaLinkedin, FaGithub, FaEnvelope } from "react-icons/fa";
+import { SiLinktree } from "react-icons/si";
 
 export default function Footer() {
   const [isMobile, setIsMobile] = useState(false);
@@ -44,6 +45,14 @@ export default function Footer() {
           aria-label="Email"
         >
           <FaEnvelope />
+        </a>
+        <a
+          href="https://linktr.ee/angieminaishuiza"
+          target="_blank"
+          rel="noopener noreferrer"
+          aria-label="Linktree"
+        >
+          <SiLinktree />
         </a>
       </div>
       <p className="footer-text">
